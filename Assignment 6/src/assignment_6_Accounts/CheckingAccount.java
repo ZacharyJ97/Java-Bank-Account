@@ -39,6 +39,8 @@ public class CheckingAccount extends BankAccount_Assign6 {
 		transactionCount = transactionCount + 1;
 	}
 	
+	
+	
 	/**
 	 * This method deducts the appropriate fees from the holder's account for doing too many transactions
 	 */
